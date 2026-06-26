@@ -124,6 +124,25 @@ section h2 {
   margin-bottom: 18px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
 }
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.project-card span {
+  display: inline-block;
+  margin-top: 12px;
+  color: #2563eb;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+@media (max-width: 768px) {
+  .projects-grid {
+    grid-template-columns: 1fr;
+  }
+}
 
 .project-card h3 {
   color: #2563eb;
