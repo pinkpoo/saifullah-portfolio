@@ -163,7 +163,9 @@ section h2 {
   .hero-buttons {
     flex-direction: column;
   }
-}html {
+}
+
+html {
   scroll-behavior: smooth;
 }
 
