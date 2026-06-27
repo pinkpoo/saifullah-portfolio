@@ -939,3 +939,16 @@ footer {
     font-size: 32px;
   }
 }
+.proof-heading {
+  grid-template-columns: 120px 1fr 330px;
+}
+
+.proof-heading .section-title {
+  font-size: clamp(30px, 3.2vw, 40px);
+}
+
+@media (max-width: 1150px) {
+  .proof-heading {
+    grid-template-columns: 1fr;
+  }
+}
