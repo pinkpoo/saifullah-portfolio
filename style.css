@@ -952,3 +952,38 @@ footer {
     grid-template-columns: 1fr;
   }
 }
+/* Fix Additional Website Work card alignment */
+
+.more-grid .project-card {
+  min-height: 100%;
+}
+
+.more-grid .project-top {
+  min-height: 48px;
+  align-items: flex-start;
+}
+
+.more-grid .project-top span {
+  max-width: 130px;
+  line-height: 1.4;
+}
+
+.more-grid .project-top a {
+  margin-left: auto;
+}
+
+.more-grid .project-image {
+  margin-top: 12px;
+  height: 170px;
+}
+
+.more-grid .project-card h3 {
+  min-height: 34px;
+}
+#work,
+#proof,
+#skills,
+#services,
+#contact {
+  scroll-margin-top: 40px;
+}
