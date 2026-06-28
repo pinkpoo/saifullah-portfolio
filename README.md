@@ -4,8 +4,7 @@ A responsive professional portfolio built to showcase my WordPress, Elementor, C
 
 ## Live Portfolio
 
-[View Live Portfolio]([(https://mosaifdev.github.io/saifullah-portfolio/)
-
+[View Live Portfolio](https://mosaifdev.github.io/saifullah-portfolio/)
 ## About
 
 I am a WordPress Developer and CMS Website Support candidate based in Bangkok, Thailand. I build and support WordPress, Elementor, and CMS websites through responsive page updates, content improvements, basic SEO, website QA, and client-focused website support.
@@ -55,8 +54,8 @@ I am open to WordPress Developer, Website Support, CMS Assistant, SEO Content, I
 
 ## Contact
 
-Email: [smsaif404@gmail.com](mailto:smsaif404@gmail.com)
-Location: Bangkok, Thailand
-https://github.com/mosaifdev
-https://mosaifdev.github.io/saifullah-portfolio/
-LinkedIn: https://www.linkedin.com/in/muhammad-saifullah-8a2a783a8
+- Email: [smsaif404@gmail.com](mailto:smsaif404@gmail.com)
+- Location: Bangkok, Thailand
+- GitHub: [github.com/mosaifdev](https://github.com/mosaifdev)
+- Portfolio: [mosaifdev.github.io/saifullah-portfolio](https://mosaifdev.github.io/saifullah-portfolio/)
+- LinkedIn: [Muhammad Saifullah](https://www.linkedin.com/in/muhammad-saifullah-8a2a783a8)
